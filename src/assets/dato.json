@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "nombre": "Departamentos con mayor prevalencia en Colombia",
+      "imagen": "./../public/img/silla_1.jpg"
+    },
+    {
+        "id": 2,
+      "nombre": "Top enfermedades en Colombia",
+      "imagen":"./../public/img/silla_2.jpg"
+    } 
+]

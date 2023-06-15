@@ -1,0 +1,77 @@
+body{
+  background-color: white;
+}
+
+
+.navbar{
+  background-color:#85adceaf ;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 25px;
+  font-family: "Times New Roman", Times, serif;
+  size-adjust: 100%;
+ 
+}
+
+
+.links {
+  display: flex;
+  gap: 30px;
+  padding-left: 750px;
+
+  color: white;
+}
+
+.links a {
+
+  text-decoration: none;
+  color:white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 5px;
+  justify-content: space-between;
+  border-radius: 5px;
+  margin-right: 50px;
+  transition: background-color 0.3s ease;
+}
+.links a:hover {
+  background-color: rgb(135, 233, 246);
+}
+.logo img {
+  max-width: 200px;
+  max-height: 200px;
+  z-index: 130;
+  padding-left: 0px;
+}
+
+.logo {
+  display: flex;
+}
+/*nosotros*/
+.nosotros h2{
+  color: #85adceaf;
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 20px;
+}
+.nosotros p{
+  color: black;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: none;
+  text-align: center;
+  padding: 20px;
+
+}
+.nosotros img{ 
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  align-items: center;
+  
+  padding: 30px;
+
+}
